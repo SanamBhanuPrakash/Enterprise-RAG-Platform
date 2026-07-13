@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.2",
+    "autoprefixer": "^10.5.2",
+    "lucide-react": "^1.24.0",
+    "markdown-to-jsx": "^9.8.2",
+    "postcss": "^8.5.17",
+    "tailwindcss": "^4.3.2"
+  }
+}

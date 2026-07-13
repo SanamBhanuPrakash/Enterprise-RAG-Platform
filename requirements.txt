@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.9
+sqlalchemy==2.0.28
+llama-index==0.10.20
+llama-index-llms-ollama==0.1.2
+llama-index-embeddings-ollama==0.1.2
+llama-index-vector-stores-lancedb==0.1.1
+llama-index-readers-file==0.1.9
+pymupdf==1.23.26
+lancedb==0.6.0
+watchdog==4.0.0

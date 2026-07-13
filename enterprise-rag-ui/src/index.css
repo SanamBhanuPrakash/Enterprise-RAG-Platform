@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #131314;
+}
+
+/* 🎨 Minimalist Enterprise Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #2d2f31;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #5f6368;
+}

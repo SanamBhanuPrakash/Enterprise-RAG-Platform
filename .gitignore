@@ -1,0 +1,15 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Node Modules (Frontend)
+enterprise-rag-ui/node_modules/
+enterprise-rag-ui/dist/
+
+# Private Enterprise Data & Databases
+private_data/
+storage/
+
+# Environment Variables
+.env
